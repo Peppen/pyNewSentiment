@@ -1,0 +1,545 @@
+Text,Prediction,Polarity,Subjectivity
+"""its a david and goliath situation."" a viral tiktok accusing converse of stealing a sneaker look sheds light on ho ",['hate.speech'],0.4,0.7
+.@jeffreykluger: why jeff bezos should be applauded for going to space ,['neutral'],0.0,0.0
+"as the final season of ""kim's convenience"" arrives on netflix, its legacy is dampened by claims of a racist work en ",['hate.speech'],0.0,1.0
+"everything you need to know about ""loki"" and time travel in the mcu
+",['hate.speech'],0.0,0.0
+"how kids perceive racism in the you.s., according to a new study by @sesameworkshop ",['neutral'],0.13636363636363635,0.45454545454545453
+"with the return of ""lupin"" to netflix, omar sy is back in the spotlight, whether he wants it or not ",['hate.speech'],0.1,0.05
+"senate overwhelmingly passes $250 billion tech investment bill aimed at countering china
+",['neutral'],0.5,1.0
+exclusive: iran steps up efforts to sow discord inside the you.s. ,['hate.speech'],0.0,0.0
+"after decades of misogynistic and violent oppression by myanmars military and its cronies, it finally looks like ",['neutral'],-0.3,0.7000000000000001
+the racial reckoning went global last year. here's how activists in 8 countries are fighting for justice ,['hate.speech'],0.0,0.03333333333333333
+"in late may, chinas state council signaled a crackdown on cryptocurrency mining, causing bitcoins price to plumme ",['hate.speech'],-0.3,0.6
+"either i resigned myself to the fact that... i was going to endure this kind of behavior, or i joined this group o ",['hate.speech'],0.6,0.9
+"on june 16, you.s. president joe biden and russian president vladimir putin are to meet face to face for the first ti ",['hate.speech'],0.125,0.16666666666666666
+"india is demanding social media remove references to the ""indian variant"" of covid-19. but what should it be called?
+",['neutral'],0.03333333333333333,0.06666666666666667
+"when i leave, i want to leave something [behind], so people can live off of it forever. that is what i was brought ",['neutral'],-0.13181818181818183,0.6
+"in central america, hurricane season brings new threats ",['hate.speech'],0.06818181818181818,0.3522727272727273
+36 new books you need to read this summer ,['hate.speech'],0.13636363636363635,0.45454545454545453
+'all of our generational wealth was stolen.' a survivor of the tulsa race massacre says her family is still trying ,['hate.speech'],0.0,0.0
+"everything you need to know about ""loki"" and time travel in the mcu
+",['hate.speech'],0.0,0.0
+"with the return of ""lupin"" to netflix, omar sy is back in the spotlight, whether he wants it or not ",['hate.speech'],0.1,0.05
+"""its eerily like 2009 in virginias gubernatorial primary,"" writes @philip_elliott ",['hate.speech'],0.4,0.5
+"as the final season of ""kim's convenience"" arrives on netflix, its legacy is dampened by claims of a racist work en ",['hate.speech'],0.0,1.0
+"""netanyahu's greatest achievement was convincing israel he alone transformed the state"" 
+",['hate.speech'],0.75,1.0
+"""bachelor"" fans respond to chris harrison's reported eight-figure parting deal with the franchise ",['neutral'],0.0,0.0
+"""how can we escape the covid-19 vaccine culture wars?"" ",['neutral'],0.0,0.0
+watch from @timeforkids: a new study by @sesameworkshop reveals how kids and families perceive racism in the you.s. ,['neutral'],0.13636363636363635,0.45454545454545453
+"why it's crucial to talk to kids about pronouns, according to the author of a new children's book about gender iden ",['hate.speech'],0.06818181818181818,0.7272727272727273
+"beyond tulsa: the historic legacies and overlooked stories of americas ""black wall streets"" ",['hate.speech'],-0.08333333333333333,0.21666666666666667
+rt @aaltman82: big congrats to @wjhenn for winning the gerald ford prize for distinguished reporting on national defense. here's just one o,['neutral'],0.25,0.425
+"rt @brian_skerry: an op-ed i wrote for @time 
+
+how whales can teach us to be better humans ",['neutral'],0.5,0.5
+the 5 best new tv shows our critic watched in may 2021 ,['neutral'],0.5681818181818181,0.37727272727272726
+"with gun violence typically increasing in the summer months, experts are raising concerns that the season will see ",['hate.speech'],-0.16666666666666666,0.5
+"""how whales can teach us to be better humans""
+",['hate.speech'],0.5,0.5
+"income inequality has always existed in the you.s., but the gap between rich and poor hasn't always been as wide as i ",['hate.speech'],-0.04166666666666668,0.5833333333333334
+"everything you need to know about ""loki"" and time travel in the mcu
+",['hate.speech'],0.0,0.0
+this will 100% save somebodys life. heres why athletes like michael phelps see a turning point for mental healt ,['hate.speech'],-0.1,0.2
+"""how can we escape the covid-19 vaccine culture wars?"" ",['neutral'],0.0,0.0
+"2021 could be the biggest wedding year ever. but are guests ready to gather?
+",['hate.speech'],0.2,0.5
+rt @timeforkids: the increased media coverage around what happened with george floyd was causing kids to ask questions that they hadn't be,['hate.speech'],0.0,0.0
+"today's daily spotlight: @vivwalt's interview with french actor @omarsy, the star of the blockbuster show ""lupin."" ",['hate.speech'],0.0,0.0
+"everything you need to know about ""loki"" and time travel in the mcu
+",['hate.speech'],0.0,0.0
+the you.s. vaccination effort is leaving its most vulnerable residents behind ,['neutral'],-0.13333333333333333,0.5666666666666667
+how adopting a shelter pet first became a thing ,['hate.speech'],0.25,0.3333333333333333
+"how kids perceive racism in the you.s., according to a new study by @sesameworkshop ",['neutral'],0.13636363636363635,0.45454545454545453
+"former treasury secretary larry summers on inflation worries, cryptocurrency and our greatest long-term threat
+",['hate.speech'],0.5,0.5
+"wildfires are getting worse, so why is the you.s. still building homes with wood? ",['hate.speech'],-0.4,0.6
+this will 100% save somebodys life. heres why athletes like michael phelps see a turning point for mental healt ,['hate.speech'],-0.1,0.2
+the you.s. government's long-awaited ufo report is here. its findings? \_()_/ ,['hate.speech'],0.0,0.0
+"after decades of misogynistic and violent oppression by myanmars military and its cronies, it finally looks like ",['neutral'],-0.3,0.7000000000000001
+"melting butter, poisonous mushrooms and the strange history of the invention of the thermometer
+",['hate.speech'],-0.05,0.15
+what meghan and harry's new daughter needs to know about being a second-born ,['hate.speech'],0.13636363636363635,0.45454545454545453
+here's what the newest class of next generation leaders had to say about leadership  ,['hate.speech'],0.0,0.0
+"companies are backing naomi osaka and mental health. here's why they're taking a stand
+",['hate.speech'],-0.1,0.2
+"apple doubles down on its push for iphone privacy at wwdc
+",['neutral'],-0.15555555555555559,0.2888888888888889
+.@jeffreykluger: why jeff bezos should be applauded for going to space ,['neutral'],0.0,0.0
+the first treatment for alzheimers disease is here ,['hate.speech'],0.25,0.3333333333333333
+"how kids perceive racism in the you.s., according to a new study by @sesameworkshop ",['neutral'],0.13636363636363635,0.45454545454545453
+"why it's crucial to talk to kids about pronouns, according to the author of a new children's book about gender iden ",['hate.speech'],0.06818181818181818,0.7272727272727273
+"""separate beds are a bad sign"" and 5 other sleep myths that are hurting your relationship
+ ",['hate.speech'],-0.4124999999999999,0.5208333333333333
+"review: with the help of a world full of iphones, apples airtags have already outsmarted the competition ",['neutral'],0.35,0.55
+the best albums of 2021 so far ,['hate.speech'],0.55,0.65
+"justice department recovers most of the $4.4 million ransom colonial pipeline paid to hackers
+",['neutral'],0.5,0.5
+how adopting a shelter pet first became a thing ,['hate.speech'],0.25,0.3333333333333333
+what meghan and harry's new daughter needs to know about being a second-born ,['hate.speech'],0.13636363636363635,0.45454545454545453
+"apple doubles down on its push for iphone privacy with multiple new features aiming to protect user data
+",['neutral'],-0.006397306397306411,0.24781144781144782
+"brands continue to back naomi osaka, showing an evolution in how sponsors treat athletes
+",['neutral'],0.0,0.0
+"""i dont want to be a trend."" @leynabloom on opening doors for the next generation of transgender talent in film an ",['hate.speech'],0.0,0.0
+"""why black americans need black-owned banks""
+",['hate.speech'],-0.16666666666666666,0.43333333333333335
+"review: stephen king adaptation ""lisey's story"" is mawkish, dull and too long by half ",['neutral'],-0.16944444444444443,0.35555555555555557
+"why ""breakthrough"" infections even after covid-19 vaccinations shouldnt be surprising
+",['hate.speech'],0.7,0.5
+.@jeffreykluger: why jeff bezos should be applauded for going to space ,['neutral'],0.0,0.0
+"how kids perceive racism in the you.s., according to a new study by @sesameworkshop ",['neutral'],0.13636363636363635,0.45454545454545453
+.@lisadtaddeo is exposing the raw reality of womens sexual desires and traumas ,['hate.speech'],0.1346153846153846,0.6474358974358975
+"""its a david and goliath situation."" a viral tiktok accusing converse of stealing a sneaker look sheds light on ho ",['hate.speech'],0.4,0.7
+what meghan and harry's new daughter needs to know about being a second-born ,['hate.speech'],0.13636363636363635,0.45454545454545453
+"rt @cadylang: according to a new study by @sesameworkshop, 86% of children in the us believe that people are treated unfairly because of ra",['hate.speech'],-0.18181818181818182,0.7272727272727273
+"2021 could be the biggest wedding year ever. but are guests ready to gather?
+",['hate.speech'],0.2,0.5
+the first treatment for alzheimers disease is here ,['hate.speech'],0.25,0.3333333333333333
+.@jeffreykluger: why jeff bezos should be applauded for going to space ,['neutral'],0.0,0.0
+"how kids perceive racism in the you.s., according to a new study by @sesameworkshop ",['neutral'],0.13636363636363635,0.45454545454545453
+"people of color telling their stories on a big stage is something that we just havent had, for forever. anthony ",['hate.speech'],0.0,0.1
+"applications are now open for time's best inventions 2021. will you make the list?
+
+enter now: ",['neutral'],0.5,0.4
+"this ""peanuts"" strip offers a window into ronald reagans changing views on abortion
+",['hate.speech'],0.1,0.0
+"review: with the help of a world full of iphones, apples airtags have already outsmarted the competition ",['neutral'],0.35,0.55
+watch from @timeforkids: a new study by @sesameworkshop reveals how kids and families perceive racism in the you.s. ,['neutral'],0.13636363636363635,0.45454545454545453
+"sign up now for times weekly entertainment newsletter, more to the story, to discover the context you need for the ",['neutral'],0.5,0.5
+exclusive: iran steps up efforts to sow discord inside the you.s. ,['hate.speech'],0.0,0.0
+the you.s. government's long-awaited ufo report is here. its findings? \_()_/ ,['hate.speech'],0.0,0.0
+"from @nextadvisor: while student loan payments are paused, do these things with the extra money ",['hate.speech'],0.0,0.1
+"rt @aliceparkny: big news for #alzheimers . fda approves the first disease-modifying treatment after a rocky road
+",['hate.speech'],0.125,0.21666666666666667
+fda reviews first treatment for alzheimer's disease ,['hate.speech'],0.25,0.3333333333333333
+5 ways to keep your brain sharp as you age ,['hate.speech'],-0.125,0.75
+todays daily spotlight: @alanasemuels reports on whether the you.s. should transition away from building wood houses ,['neutral'],0.0,0.0
+"why it's crucial to talk to kids about pronouns, according to the author of a new children's book about gender iden ",['hate.speech'],0.06818181818181818,0.7272727272727273
+"applications are now open for time's best inventions 2021. will you make the list?
+
+enter now: ",['neutral'],0.5,0.4
+"former treasury secretary larry summers on inflation worries, cryptocurrency and our greatest long-term threat
+",['hate.speech'],0.5,0.5
+"why ""breakthrough"" infections even after covid-19 vaccinations shouldnt be surprising
+",['hate.speech'],0.7,0.5
+"on june 16, you.s. president joe biden and russian president vladimir putin are to meet face to face for the first ti ",['hate.speech'],0.125,0.16666666666666666
+"as climbing makes its olympic debut, american climber @kyracondie hopes to elevate diversity and inclusion in the s ",['hate.speech'],0.0,0.0
+"""how george washington organized the first large-scale immunization campaign in american history"" ",['hate.speech'],0.125,0.16666666666666666
+"""separate beds are a bad sign"" and 5 other sleep myths that are hurting your relationship
+ ",['hate.speech'],-0.4124999999999999,0.5208333333333333
+"eight questions with theoretical physicist carlo rovelliincluding quantum, cats and why we should forget about time ",['hate.speech'],0.0,0.1
+the you.s. government's long-awaited ufo report is here. its findings? \_()_/ ,['hate.speech'],0.0,0.0
+what are five ways love is good for your health? get trusted insights from the experts in time for healths free di ,['neutral'],0.5333333333333333,0.6666666666666666
+this will 100% save somebodys life. heres why athletes like michael phelps see a turning point for mental healt ,['hate.speech'],-0.1,0.2
+find out why @izareal is part of times newest class of next generation leaders  ,['neutral'],0.0,0.0
+"melting butter, poisonous mushrooms and the strange history of the invention of the thermometer
+",['hate.speech'],-0.05,0.15
+"as opposition mounts to the tokyo olympics, here's what it's like for some of the first athletes to arrive. ",['hate.speech'],0.25,0.3333333333333333
+"review: stephen king adaptation ""lisey's story"" is mawkish, dull and too long by half ",['neutral'],-0.16944444444444443,0.35555555555555557
+how adopting a shelter pet first became a thing ,['hate.speech'],0.25,0.3333333333333333
+"after decades of misogynistic and violent oppression by myanmars military and its cronies, it finally looks like ",['neutral'],-0.3,0.7000000000000001
+36 new books you need to read this summer ,['hate.speech'],0.13636363636363635,0.45454545454545453
+"why it's crucial to talk to kids about pronouns, according to the author of a new children's book about gender iden ",['hate.speech'],0.06818181818181818,0.7272727272727273
+"last soviet soldier who liberated auschwitz dies at 98
+",['hate.speech'],0.0,0.06666666666666667
+"wildfires are getting worse, so why is the you.s. still building homes with wood? ",['hate.speech'],-0.4,0.6
+"how china is cracking down on its once untouchable tech titans
+",['neutral'],-0.15555555555555559,0.2888888888888889
+"former treasury secretary larry summers on inflation worries, cryptocurrency and our greatest long-term threat
+",['hate.speech'],0.5,0.5
+the 5 best new tv shows our critic watched in may 2021 ,['neutral'],0.5681818181818181,0.37727272727272726
+"applications are now open for time's best inventions 2021. will you make the list?
+
+enter now: ",['neutral'],0.5,0.4
+"in central america, hurricane season brings new threats ",['hate.speech'],0.06818181818181818,0.3522727272727273
+everything to know about the origins of cruella de vil before watching the new disney movie ,['hate.speech'],0.13636363636363635,0.45454545454545453
+"to be different is not a problem.
+
+find out why @mory_sacko_ is part of times newest class of next generation le ",['neutral'],0.0,0.3
+"beyond tulsa: the historic legacies and overlooked stories of americas ""black wall streets"" ",['hate.speech'],-0.08333333333333333,0.21666666666666667
+the best albums of 2021 so far ,['hate.speech'],0.55,0.65
+"""why black americans need black-owned banks""
+",['hate.speech'],-0.16666666666666666,0.43333333333333335
+"either i resigned myself to the fact that... i was going to endure this kind of behavior, or i joined this group o ",['hate.speech'],0.6,0.9
+the pandemic revealed how much we hate our jobs. now we have a chance to reinvent work ,['neutral'],-0.8,0.9
+the you.s. vaccination effort is leaving its most vulnerable residents behind ,['neutral'],-0.13333333333333333,0.5666666666666667
+"nicole chung: ""i'm tired of trying to educate white people about anti-asian racism"" ",['hate.speech'],-0.2,0.35
+"2021 could be the biggest wedding year ever. but are guests ready to gather?
+",['hate.speech'],0.2,0.5
+"""i dont want to be a trend."" @leynabloom on opening doors for the next generation of transgender talent in film an ",['hate.speech'],0.0,0.0
+"wildfires are getting worse, so why is the you.s. still building homes with wood? ",['hate.speech'],-0.4,0.6
+the you.s. government's long-awaited ufo report is here. its findings? \_()_/ ,['hate.speech'],0.0,0.0
+.@lisadtaddeo is exposing the raw reality of womens sexual desires and traumas ,['hate.speech'],0.1346153846153846,0.6474358974358975
+the debate over qualified immunity is at the heart of police reform. heres what to know  ,['hate.speech'],0.0,0.0
+"this ""peanuts"" strip offers a window into ronald reagans changing views on abortion
+",['hate.speech'],0.1,0.0
+.@casey_mcquiston is writing the queer rom-coms shes always wanted to read  ,['hate.speech'],0.0,0.0
+"sid mohasseb: ""the you.s. has failed to persuade americans to get vaccines. here's how it should course-correct"" ",['neutral'],-0.5,0.3
+36 new books you need to read this summer ,['hate.speech'],0.13636363636363635,0.45454545454545453
+a spokesperson for prince harry and meghan said sunday the couple welcomed their child lilibet lili diana mountba ,['hate.speech'],0.0,0.0
+"with gun violence typically increasing in the summer months, experts are raising concerns that the season will see ",['hate.speech'],-0.16666666666666666,0.5
+you.OK. urges commitment to vaccinate the world by end of 2022 ,['neutral'],0.0,0.0
+"why it's crucial to talk to kids about pronouns, according to the author of a new children's book about gender iden ",['hate.speech'],0.06818181818181818,0.7272727272727273
+virginia court to hear challenges to removal of robert e. lee statue ,['neutral'],0.0,0.0
+the baby brokers: inside americas murky private-adoption industry  ,['hate.speech'],0.0,0.0
+'all of our generational wealth was stolen.' a survivor of the tulsa race massacre says her family is still trying ,['hate.speech'],0.0,0.0
+"the you.s. will give taiwan 750,000 doses of covid-19 vaccine, part of president joe biden's move to share tens of mi ",['hate.speech'],0.0,0.0
+"gavin yamey and madhukar pai: how covid-19 is revolutionizing health care around the world
+",['neutral'],0.0,0.0
+this will 100% save somebodys life. heres why athletes like michael phelps see a turning point for mental healt ,['hate.speech'],-0.1,0.2
+"why ""breakthrough"" infections even after covid-19 vaccinations shouldnt be surprising
+",['hate.speech'],0.7,0.5
+"review: ""a quiet place part ii"" is tense and effectivebut a little more breathing room would have gone a long way ",['hate.speech'],-0.014166666666666652,0.44666666666666666
+"""its a david and goliath situation."" a viral tiktok accusing converse of stealing a sneaker look sheds light on ho ",['hate.speech'],0.4,0.7
+"review: stephen king adaptation ""lisey's story"" is mawkish, dull and too long by half ",['neutral'],-0.16944444444444443,0.35555555555555557
+.@raquelwillis_: biden vowed to protect the lgbtq community. but what's really changed for transgender people? ,['neutral'],0.2,0.2
+how adopting a shelter pet first became a thing ,['hate.speech'],0.25,0.3333333333333333
+inside the israeli town that sits on the divide between jews and arabs ,['hate.speech'],0.0,0.0
+"on june 16, you.s. president joe biden and russian president vladimir putin are to meet face to face for the first ti ",['hate.speech'],0.125,0.16666666666666666
+"melting butter, poisonous mushrooms and the strange history of the invention of the thermometer
+",['hate.speech'],-0.05,0.15
+the best podcasts of 2021 so far ,['neutral'],0.55,0.65
+".@ianbremmer: who will be iran's next president and what does it mean for the region?
+",['neutral'],-0.15625,0.34375
+"how china is cracking down on its once untouchable tech titans
+",['neutral'],-0.15555555555555559,0.2888888888888889
+"the covid-19 pandemic may be the hardest mountain nepal's sherpas have ever had to climb
+",['hate.speech'],0.0,0.0
+"from aids to covid-19, americas medical system has a long history of relying on filipino nurses to fight on the fr ",['neutral'],-0.025,0.2
+"india is demanding social media remove references to the ""indian variant"" of covid-19. but what should it be called?
+",['neutral'],0.03333333333333333,0.06666666666666667
+"for far too long, says @trevor_stuurman, the african narrative has been hijacked by outsiders, first by colonial in ",['hate.speech'],0.075,0.4333333333333333
+"in late may, chinas state council signaled a crackdown on cryptocurrency mining, causing bitcoins price to plumme ",['hate.speech'],-0.3,0.6
+the racial reckoning went global last year. here's how activists in 8 countries are fighting for justice ,['hate.speech'],0.0,0.03333333333333333
+.@sebastianjunger: my father fled fascism in spainand taught me how lies can destroy a democracy ,['hate.speech'],-0.2,0.0
+"after decades of misogynistic and violent oppression by myanmars military and its cronies, it finally looks like ",['neutral'],-0.3,0.7000000000000001
+eight women's names are among the thousands on the vietnam memorial wall. here's what to know about them ,['hate.speech'],0.0,0.0
+"""how george washington organized the first large-scale immunization campaign in american history"" ",['hate.speech'],0.125,0.16666666666666666
+.@sebastianjunger: my father fled fascism in spainand taught me how lies can destroy a democracy ,['hate.speech'],-0.2,0.0
+"""why black americans need black-owned banks""
+",['hate.speech'],-0.16666666666666666,0.43333333333333335
+the 5 best new tv shows our critic watched in may 2021 ,['neutral'],0.5681818181818181,0.37727272727272726
+.@raquelwillis_: biden vowed to protect the lgbtq community. but what's really changed for transgender people? ,['neutral'],0.2,0.2
+'all of our generational wealth was stolen.' a survivor of the tulsa race massacre says her family is still trying ,['hate.speech'],0.0,0.0
+find out why @izareal is part of times newest class of next generation leaders  ,['neutral'],0.0,0.0
+the you.s. government's long-awaited ufo report is here. its findings? \_()_/ ,['hate.speech'],0.0,0.0
+"why ""breakthrough"" infections even after covid-19 vaccinations shouldnt be surprising
+",['hate.speech'],0.7,0.5
+the baby brokers: inside americas murky private-adoption industry  ,['hate.speech'],0.0,0.0
+"""i dont want to be a trend."" @leynabloom on opening doors for the next generation of transgender talent in film an ",['hate.speech'],0.0,0.0
+.@lisadtaddeo is exposing the raw reality of womens sexual desires and traumas ,['hate.speech'],0.1346153846153846,0.6474358974358975
+"with gun violence typically increasing in the summer months, experts are raising concerns that the season will see ",['hate.speech'],-0.16666666666666666,0.5
+everything to know about the origins of cruella de vil before watching the new disney movie ,['hate.speech'],0.13636363636363635,0.45454545454545453
+"""its a david and goliath situation."" a viral tiktok accusing converse of stealing a sneaker look sheds light on ho ",['hate.speech'],0.4,0.7
+the best albums of 2021 so far ,['hate.speech'],0.55,0.65
+"why it's crucial to talk to kids about pronouns, according to the author of a new children's book about gender iden ",['hate.speech'],0.06818181818181818,0.7272727272727273
+"review: stephen king adaptation ""lisey's story"" is mawkish, dull and too long by half ",['neutral'],-0.16944444444444443,0.35555555555555557
+the first step to creating a better world is being able to imagine it. @azemezi is writing new possibilities into ,['neutral'],0.34659090909090906,0.47821969696969696
+this will 100% save somebodys life. heres why athletes like michael phelps see a turning point for mental healt ,['hate.speech'],-0.1,0.2
+"this ""peanuts"" strip offers a window into ronald reagans changing views on abortion
+",['hate.speech'],0.1,0.0
+the justice department says that it will no longer secretly obtain reporters' records during leak investigations  ,['hate.speech'],-0.4,0.7
+"beyond tulsa: the historic legacies and overlooked stories of americas ""black wall streets"" ",['hate.speech'],-0.08333333333333333,0.21666666666666667
+the you.s. vaccination effort is leaving its most vulnerable residents behind ,['neutral'],-0.13333333333333333,0.5666666666666667
+federal judge overturns californias ban on assault weapons ,['hate.speech'],0.0,0.0
+the pandemic revealed how much we hate our jobs. now we have a chance to reinvent work ,['neutral'],-0.8,0.9
+protest erupts again over man killed by minnesota deputies ,['hate.speech'],-0.2,0.0
+"sid mohasseb: ""the you.s. has failed to persuade americans to get vaccines. here's how it should course-correct"" ",['neutral'],-0.5,0.3
+at least 100 civilians killed in attack in burkina faso ,['hate.speech'],-0.25,0.2
+"people of color telling their stories on a big stage is something that we just havent had, for forever. anthony ",['hate.speech'],0.0,0.1
+"nicole chung: ""i'm tired of trying to educate white people about anti-asian racism"" ",['hate.speech'],-0.2,0.35
+"2021 could be the biggest wedding year ever. but are guests ready to gather?
+",['hate.speech'],0.2,0.5
+the debate over qualified immunity is at the heart of police reform. heres what to know  ,['hate.speech'],0.0,0.0
+"today's daily spotlight: @annabelgutt's profile of author @casey_mcquiston, who is writing the queer rom-coms shes ",['hate.speech'],0.0,0.0
+36 new books you need to read this summer ,['hate.speech'],0.13636363636363635,0.45454545454545453
+the best podcasts of 2021 so far ,['neutral'],0.55,0.65
+"either i resigned myself to the fact that... i was going to endure this kind of behavior, or i joined this group o ",['hate.speech'],0.6,0.9
+.@casey_mcquiston is writing the queer rom-coms shes always wanted to read  ,['hate.speech'],0.0,0.0
+how adopting a shelter pet first became a thing ,['hate.speech'],0.25,0.3333333333333333
+inside the israeli town that sits on the divide between jews and arabs ,['hate.speech'],0.0,0.0
+"from aids to covid-19, americas medical system has a long history of relying on filipino nurses to fight on the fr ",['neutral'],-0.025,0.2
+"india is demanding social media remove references to the ""indian variant"" of covid-19. but what should it be called?
+",['neutral'],0.03333333333333333,0.06666666666666667
+"on june 16, you.s. president joe biden and russian president vladimir putin are to meet face to face for the first ti ",['hate.speech'],0.125,0.16666666666666666
+the racial reckoning went global last year. here's how activists in 8 countries are fighting for justice ,['hate.speech'],0.0,0.03333333333333333
+"how a false sense of security, and a little secret tea, broke down taiwan's covid-19 defenses ",['hate.speech'],-0.28576388888888893,0.5222222222222223
+"in late may, chinas state council signaled a crackdown on cryptocurrency mining, causing bitcoins price to plumme ",['hate.speech'],-0.3,0.6
+find out why zarifa ghafari is part of times newest class of next generation leaders  ,['neutral'],0.0,0.0
+"melting butter, poisonous mushrooms and the strange history of the invention of the thermometer
+",['hate.speech'],-0.05,0.15
+"after decades of misogynistic and violent oppression by myanmars military and its cronies, it finally looks like ",['neutral'],-0.3,0.7000000000000001
+"gavin yamey and madhukar pai: how covid-19 is revolutionizing health care around the world
+",['neutral'],0.0,0.0
+"in central america, hurricane season brings new threats ",['hate.speech'],0.06818181818181818,0.3522727272727273
+the australian olympic softball squad is one of the first teams to arrive for the tokyo games. here's what it's lik ,['hate.speech'],0.125,0.16666666666666666
+"from olivia rodrigo's unapologetically spiteful pop-punk hit ""good 4 you"" to cardi b's beautifully brazen ""up"" ",['hate.speech'],0.7749999999999999,0.8
+"this ""peanuts"" strip offers a window into ronald reagans changing views on abortion
+",['hate.speech'],0.1,0.0
+"""separate beds are a bad sign"" and 5 other sleep myths that are hurting your relationship
+ ",['hate.speech'],-0.4124999999999999,0.5208333333333333
+"""raya and the last dragon,"" which features disney's first southeast asian princess, is now available to all disney+ ",['hate.speech'],0.1625,0.2
+"as opposition mounts to the tokyo olympics, here's what it's like for some of the first athletes to arrive. ",['hate.speech'],0.25,0.3333333333333333
+"with ""red, white &amp; royal blue,"" and now with ""one last stop,"" @casey_mcquiston is pushing the boundaries of the rom ",['hate.speech'],0.0,0.04166666666666667
+"""sinema has every democratic senators electoral future in her grip,"" writes @philip_elliott. 
+
+""they can not do a bi ",['hate.speech'],0.0,0.125
+the you.s. government's long-awaited ufo report is here. its findings? \_()_/ ,['hate.speech'],0.0,0.0
+"from aids to covid-19, americas medical system has a long history of relying on filipino nurses to fight on the fr ",['neutral'],-0.025,0.2
+"with gun violence typically increasing in the summer months, experts are raising concerns that the season will see ",['hate.speech'],-0.16666666666666666,0.5
+the debate over qualified immunity is at the heart of police reform. heres what to know ,['hate.speech'],0.0,0.0
+"review: stephen king adaptation ""lisey's story"" is mawkish, dull and too long by half ",['neutral'],-0.16944444444444443,0.35555555555555557
+"""within the [design] industry, you learn that this is something that happens to smaller designers and, unfortunatel ",['hate.speech'],0.0,0.5
+"nicole chung: ""i'm tired of trying to educate white people about anti-asian racism"" ",['hate.speech'],-0.2,0.35
+"get the context you need for the pop culture you love. sign up now for times weekly entertainment newsletter, more ",['neutral'],0.5,0.55
+"on june 16, you.s. president joe biden and russian president vladimir putin are to meet face to face for the first ti ",['hate.speech'],0.125,0.16666666666666666
+"""sinema has every democratic senators electoral future in her grip,"" writes @philip_elliott. 
+
+""they can not do a bi ",['hate.speech'],0.0,0.125
+" the spongebob movie: sponge on the run
+
+the jokes in sponge on the run, silly as they are, will not insult your d ",['hate.speech'],-0.5,0.875
+" the dig
+
+this is the story of two people who made history by unearthing bits of it for future generations. its ",['hate.speech'],0.0,0.125
+" gunda
+
+to call gunda a documentary isnt quite right; its semi-experimental, a picture that induces rippling ",['hate.speech'],0.14285714285714285,0.26785714285714285
+" the human voice
+
+pedro almodvars first english-language film is a short one, just 30 fleet minutes, but its s ",['hate.speech'],0.08333333333333333,0.24444444444444446
+" the truffle hunters
+
+you have to be rich to be a connoisseur of wild truffles ... but 'the truffle hunters' remi ",['hate.speech'],0.2375,0.575
+" about endlessness
+
+for most of us, in between moments of despair and joy, there are long stretches of just getti ",['neutral'],0.4166666666666667,0.3666666666666667
+" the disciple
+
+its one of the best movies of the year, a luminous examination of what it means to pursue a dream ",['hate.speech'],1.0,0.3
+"here are the best movies of 2021 so far, from times film critic @szacharek ",['hate.speech'],0.55,0.65
+the you.s. government's long-awaited ufo report is here. its findings? \_()_/ ,['hate.speech'],0.0,0.0
+"""the united states has the capacity to transform the dynamics of infection without jeopardizing its own recovery; t ",['hate.speech'],0.6,1.0
+"joe biden's allies and even some republicans say that if the long weeks of infrastructure negotiations fail, the pr ",['hate.speech'],-0.275,0.35
+"with gun violence typically increasing in the summer months, experts are raising concerns that the season will see ",['hate.speech'],-0.16666666666666666,0.5
+"wildfires are getting worse, so why is the you.s. still building homes with wood? ",['hate.speech'],-0.4,0.6
+"rt @josiahbates: with gun violence typically increasing in the summer months, activists are raising concerns that this upcoming season will",['hate.speech'],-0.16666666666666666,0.5
+"rt @ariahychen: secluded to one hotel floor, training in a makeshift gym, daily covid tests, no talking at mealtimes and no interaction wit",['hate.speech'],0.0,0.0
+"rt @maddiecarlisle2: i wrote about qualified immunity, the controversial doctrine that has become a key sticking point as congress pushes f",['hate.speech'],0.275,0.975
+"review: documentary ""all light, everywhere"" examines the limits of police body camerasand our own perceptions ",['hate.speech'],0.3333333333333333,0.5666666666666667
+the australian olympic softball squad is one of the first teams to arrive for the tokyo games. here's what it's lik ,['hate.speech'],0.125,0.16666666666666666
+"review: stephen king adaptation ""lisey's story"" is mawkish, dull and too long by half ",['neutral'],-0.16944444444444443,0.35555555555555557
+the debate over qualified immunity is at the heart of police reform. heres what to know  ,['hate.speech'],0.0,0.0
+"""its a david and goliath situation."" a viral tiktok accusing converse of stealing a sneaker look sheds light on ho ",['hate.speech'],0.4,0.7
+"today's daily spotlight:
+
+as opposition mounts to the tokyo olympics, here's what it's like for some of the first a ",['hate.speech'],0.125,0.16666666666666666
+"for far too long, says @trevor_stuurman, the african narrative has been hijacked by outsiders, first by colonial in ",['hate.speech'],0.075,0.4333333333333333
+"this ""peanuts"" strip offers a window into ronald reagans changing views on abortion
+",['hate.speech'],0.1,0.0
+find out why @izareal is part of times newest class of next generation leaders  ,['neutral'],0.0,0.0
+"wildfires are getting worse, so why is the you.s. still building homes with wood? ",['hate.speech'],-0.4,0.6
+"as climbing makes its olympic debut, american climber @kyracondie hopes to elevate diversity and inclusion in the s ",['hate.speech'],0.0,0.0
+"from aids to covid-19, americas medical system has a long history of relying on filipino nurses to fight on the fr ",['neutral'],-0.025,0.2
+"""as a black author whos always expressly desired to write for black people, @azemezi is at a moment in their caree ",['hate.speech'],-0.16666666666666666,0.43333333333333335
+the best tv shows of 2021 so far ,['neutral'],0.55,0.65
+find out why anthony ramos (@aramosofficial) is part of times newest class of next generation leaders ,['neutral'],0.0,0.0
+inside the israeli town that sits on the divide between jews and arabs ,['hate.speech'],0.0,0.0
+israeli prime minister benjamin netanyahu's opponents push for a quick vote to end his 12-year rule ,['hate.speech'],0.3333333333333333,0.5
+"to be different is not a problem.
+
+find out why @mory_sacko_ is part of times newest class of next generation le ",['neutral'],0.0,0.3
+"as opposition to the tokyo olympics mounts, here's what it's like for some of the first athletes to arrive ",['hate.speech'],0.25,0.3333333333333333
+"""separate beds are a bad sign"" and 5 other sleep myths that are hurting your relationship
+ ",['hate.speech'],-0.4124999999999999,0.5208333333333333
+find out why zarifa ghafari is part of times newest class of next generation leaders  ,['neutral'],0.0,0.0
+"2021 could be the biggest wedding year ever. but are guests ready to gather?
+",['hate.speech'],0.2,0.5
+"twin sisters anna and mizuki nakajima are creating space for women in the gaming worldand it's paying off.
+
+find o ",['hate.speech'],0.0,0.0
+"on june 16, you.s. president joe biden and russian president vladimir putin are to meet face to face for the first ti ",['hate.speech'],0.125,0.16666666666666666
+i do not regret speaking out. i never will regret speaking out. find out why grace tame (@tamepunk) is part of ti ,['neutral'],-0.21666666666666667,0.21666666666666667
+everything to know about the origins of cruella de vil before watching the new disney movie ,['hate.speech'],0.13636363636363635,0.45454545454545453
+the pandemic revealed how much we hate our jobs. now we have a chance to reinvent work ,['neutral'],-0.8,0.9
+"as climbing makes its olympic debut, american climber @kyracondie hopes to elevate diversity and inclusion in the s ",['hate.speech'],0.0,0.0
+"nicole chung: ""i'm tired of trying to educate white people about anti-asian racism"" ",['hate.speech'],-0.2,0.35
+.@lisadtaddeo is exposing the raw reality of womens sexual desires and traumas ,['hate.speech'],0.1346153846153846,0.6474358974358975
+36 new books you need to read this summer ,['hate.speech'],0.13636363636363635,0.45454545454545453
+"introducing the newest class of next generation leaders, featuring trendsetters and trailblazers who are guiding th ",['hate.speech'],0.0,0.0
+"eight questions with theoretical physicist carlo rovelliincluding quantum, cats and why we should forget about time ",['hate.speech'],0.0,0.1
+the best albums of 2021 so far ,['hate.speech'],0.55,0.65
+"""black girls fall in love all the time."" @nicolayoon on her new book ""instructions for dancing"" and the importance ",['hate.speech'],0.15656565656565657,0.49595959595959593
+"sid mohasseb: ""the you.s. has failed to persuade americans to get vaccines. here's how it should course-correct"" ",['neutral'],-0.5,0.3
+"people of color telling their stories on a big stage is something that we just havent had, for forever. anthony ",['hate.speech'],0.0,0.1
+the you.s. vaccination effort is leaving its most vulnerable residents behind ,['neutral'],-0.13333333333333333,0.5666666666666667
+"in central america, hurricane season brings new threats ",['hate.speech'],0.06818181818181818,0.3522727272727273
+"2021 could be the biggest wedding year ever. but are guests ready to gather?
+",['hate.speech'],0.2,0.5
+"this ""peanuts"" strip offers a window into ronald reagans changing views on abortion
+",['hate.speech'],0.1,0.0
+the first step to creating a better world is being able to imagine it. @azemezi is writing new possibilities into ,['neutral'],0.34659090909090906,0.47821969696969696
+"sign up now for times weekly entertainment newsletter, more to the story, to discover the context you need for the ",['neutral'],0.5,0.5
+this will 100% save somebodys life. heres why athletes like michael phelps see a turning point for mental healt ,['hate.speech'],-0.1,0.2
+"why it's crucial to talk to kids about pronouns, according to the author of a new children's book about gender iden ",['hate.speech'],0.06818181818181818,0.7272727272727273
+"""i dont want to be a trend."" @leynabloom on opening doors for the next generation of transgender talent in film an ",['hate.speech'],0.0,0.0
+how adopting a shelter pet first became a thing ,['hate.speech'],0.25,0.3333333333333333
+the baby brokers: inside americas murky private-adoption industry  ,['hate.speech'],0.0,0.0
+"from aids to covid-19, americas medical system has a long history of relying on filipino nurses to fight on the fr ",['neutral'],-0.025,0.2
+"a woman has never run new york city. can kathryn garcia change that?
+",['neutral'],0.13636363636363635,0.45454545454545453
+"review: ""a quiet place part ii"" is tense and effectivebut a little more breathing room would have gone a long way ",['hate.speech'],-0.014166666666666652,0.44666666666666666
+.@casey_mcquiston is writing the queer rom-coms shes always wanted to read  ,['hate.speech'],0.0,0.0
+"sid mohasseb: ""the you.s. has failed to persuade americans to get vaccines. here's how it should course-correct"" ",['neutral'],-0.5,0.3
+the you.s. vaccination effort is leaving its most vulnerable residents behind ,['neutral'],-0.13333333333333333,0.5666666666666667
+"in central america, hurricane season brings new threats ",['hate.speech'],0.06818181818181818,0.3522727272727273
+from @nextadvisor: follow these personal finance experts if youre curious about crypto ,['neutral'],-0.05,0.65
+"get the context you need for the pop culture you love. sign up now for times weekly entertainment newsletter, more ",['neutral'],0.5,0.55
+today's daily spotlight: tik root's deeply-reported investigation into america's unregulated private adoption indus ,['hate.speech'],0.0,0.1875
+"""pose"" was more than just a tv show. it changed the culture, onscreen and off ",['neutral'],0.5,0.5
+"gavin yamey and madhukar pai: how covid-19 is revolutionizing health care around the world
+",['neutral'],0.0,0.0
+"""infrastructure week is still with us, albeit in a much different form. president joe biden continues to chase the ",['hate.speech'],0.0,0.6
+"""we need more lawmakers and leaders in every arena to actively fight against transphobia and against the conservati ",['hate.speech'],0.18333333333333335,0.55
+"why ""breakthrough"" infections even after covid-19 vaccinations shouldnt be surprising
+",['hate.speech'],0.7,0.5
+"you.s. reps. jason crow and chrissy houlahan: if you're shocked by michael flynn's call for a coup, you haven't been ",['hate.speech'],-0.7,0.8
+"beyond tulsa: the historic legacies and overlooked stories of americas ""black wall streets"" ",['hate.speech'],-0.08333333333333333,0.21666666666666667
+a palestinian doctors account of life under israeli bombardment in gaza ,['hate.speech'],0.0,0.0
+"long-covid-19 patients are getting diagnosed with rare illnesses like pots 
+",['hate.speech'],0.3,0.9
+"sri lanka braces for environmental disaster as a fire-damaged container ship sinks
+",['neutral'],-0.1,0.0
+"either i resigned myself to the fact that... i was going to endure this kind of behavior, or i joined this group o ",['hate.speech'],0.6,0.9
+"""i dont want to be a trend."" @leynabloom on opening doors for the next generation of transgender talent in film an ",['hate.speech'],0.0,0.0
+"""separate beds are a bad sign"" and five other sleep myths that are hurting your relationship
+ ",['hate.speech'],-0.4124999999999999,0.5208333333333333
+"four ways exercise helps fight aging
+",['hate.speech'],0.0,0.0
+"after decades of misogynistic and violent oppression by myanmars military and its cronies, it finally looks like ",['neutral'],-0.3,0.7000000000000001
+this will 100% save somebodys life. heres why athletes like michael phelps see a turning point for mental healt ,['hate.speech'],-0.1,0.2
+"a herd of wandering elephants has reached a major chinese city, prompting road closures
+",['hate.speech'],0.03125,0.25
+"from aids to covid-19, americas medical system has a long history of relying on filipino nurses to fight on the fr ",['neutral'],-0.025,0.2
+"this ""peanuts"" strip offers a window into ronald reagans changing views on abortion
+",['hate.speech'],0.1,0.0
+the pandemic revealed how much we hate our jobs. now we have a chance to reinvent work ,['neutral'],-0.8,0.9
+"opponents of israeli prime minister benjamin netanyahu have reached a coalition deal to oust him
+",['neutral'],0.0,0.0
+find out why @izareal is part of times newest class of next generation leaders  ,['neutral'],0.0,0.0
+the best tv shows of 2021 so far ,['neutral'],0.55,0.65
+"from aids to covid-19, americas medical system has a long history of relying on filipino nurses to fight on the fr ",['neutral'],-0.025,0.2
+inside the israeli town that sits on the divide between jews and arabs ,['hate.speech'],0.0,0.0
+'all of our generational wealth was stolen.' a survivor of the tulsa race massacre says her family is still trying ,['hate.speech'],0.0,0.0
+"2021 could be the biggest wedding year ever. but are guests ready to gather?
+",['hate.speech'],0.2,0.5
+"""black girls fall in love all the time."" @nicolayoon on her new book ""instructions for dancing"" and the importance ",['hate.speech'],0.15656565656565657,0.49595959595959593
+"twin sisters anna and mizuki nakajima are creating space for women in the gaming worldand it's paying off.
+
+find o ",['hate.speech'],0.0,0.0
+"get the context you need for the pop culture you love. sign up now for times weekly entertainment newsletter, more ",['neutral'],0.5,0.55
+"from olivia rodrigo's unapologetically spiteful pop-punk hit ""good 4 you"" to cardi b's beautifully brazen ""up"" ",['hate.speech'],0.7749999999999999,0.8
+find out why @trevor_stuurman is part of times newest class of next generation leaders  ,['neutral'],0.0,0.0
+"germany has officially recognized colonial-era atrocities in namibia. but for some, reconciliation is a long way off ",['hate.speech'],-0.05,0.4
+"as climbing makes its olympic debut, american climber @kyracondie hopes to elevate diversity and inclusion in the s ",['hate.speech'],0.0,0.0
+"you.s. reps. jason crow and chrissy houlahan: if you're shocked by michael flynn's call for a coup, you haven't been ",['hate.speech'],-0.7,0.8
+"""separate beds are a bad sign"" and 5 other sleep myths that are hurting your relationship
+ ",['hate.speech'],-0.4124999999999999,0.5208333333333333
+"review: peacock's all-girl muslim punk band comedy ""we are lady parts"" is a rockin' good time
+ ",['hate.speech'],0.7,0.6000000000000001
+.@raquelwillis_: biden vowed to protect the lgbtq community. but what's really changed for transgender people? ,['neutral'],0.2,0.2
+"""i am looking forward to contributing their story back to the living,"" says a forensic anthropologist working on th ",['neutral'],0.0,0.0
+"""infrastructure week is still with us, albeit in a much different form. president joe biden continues to chase the ",['hate.speech'],0.0,0.6
+"dismantling centuries of systemic injustice will require work on the part of everyone, from political representativ ",['hate.speech'],0.0,0.1
+"sign up now for times weekly entertainment newsletter, more to the story, to discover the context you need for the ",['neutral'],0.5,0.5
+"beyond tulsa: the historic legacies and overlooked stories of americas ""black wall streets"" ",['hate.speech'],-0.08333333333333333,0.21666666666666667
+"rt @alanasemuels: trees help slow climate change.
+
+but the us still cuts down the largest volume of them in the world, even as the price of",['hate.speech'],-0.2277777777777778,0.34444444444444444
+"wildfires are getting worse, so why is the you.s. still building homes with wood? ",['hate.speech'],-0.4,0.6
+.@casey_mcquiston is writing the queer rom-coms shes always wanted to read  ,['hate.speech'],0.0,0.0
+"this ""peanuts"" strip offers a window into ronald reagans changing views on abortion
+",['hate.speech'],0.1,0.0
+"on june 16, you.s. president joe biden and russian president vladimir putin are to meet face to face for the first ti ",['hate.speech'],0.125,0.16666666666666666
+"you.s. reps. jason crow and chrissy houlahan: if you're shocked by michael flynn's call for a coup, you haven't been ",['hate.speech'],-0.7,0.8
+"melting butter, poisonous mushrooms and the strange history of the invention of the thermometer
+",['hate.speech'],-0.05,0.15
+everything to know about the origins of cruella de vil before watching the new disney movie ,['hate.speech'],0.13636363636363635,0.45454545454545453
+"either i resigned myself to the fact that... i was going to endure this kind of behavior, or i joined this group o ",['hate.speech'],0.6,0.9
+a palestinian doctors account of life under israeli bombardment in gaza ,['hate.speech'],0.0,0.0
+"sign up now for times weekly entertainment newsletter, more to the story, to discover the context you need for the ",['neutral'],0.5,0.5
+"""i dont want to be a trend."" @leynabloom on opening doors for the next generation of transgender talent in film an ",['hate.speech'],0.0,0.0
+"""separate beds are a bad sign"" and 5 other sleep myths that are hurting your relationship
+ ",['hate.speech'],-0.4124999999999999,0.5208333333333333
+"in late may, chinas state council signaled a crackdown on cryptocurrency mining, causing bitcoins price to plumme ",['hate.speech'],-0.3,0.6
+today's daily spotlight: @seanmgregory speaks to athletes including michael phelps about naomi osaka's decision to ,['hate.speech'],0.0,0.0
+"rt @sanya_mansoor: texas democrats staged a walkout from the state capitol on sunday night, effectively killing a bill that contained sweep",['hate.speech'],0.6,0.8
+"""we need more lawmakers and leaders in every arena to actively fight against transphobia and against the conservati ",['hate.speech'],0.18333333333333335,0.55
+this will 100% save somebodys life. heres why athletes like michael phelps see a turning point for mental healt ,['hate.speech'],-0.1,0.2
+"after decades of misogynistic and violent oppression by myanmars military and its cronies, it finally looks like ",['neutral'],-0.3,0.7000000000000001
+"this ""peanuts"" strip offers a window into ronald reagans changing views on abortion
+",['hate.speech'],0.1,0.0
+"people of color telling their stories on a big stage is something that we just havent had, for forever. anthony ",['hate.speech'],0.0,0.1
+the pandemic revealed how much we hate our jobs. now we have a chance to reinvent work ,['neutral'],-0.8,0.9
+"at times uplifting aapi voices summit, constance wu and @jennyhan discussed their groundbreaking work both in fron ",['neutral'],0.0,0.0
+"long-covid-19 patients are getting diagnosed with rare illnesses like pots 
+",['hate.speech'],0.3,0.9
+find out why zarifa ghafari is part of times newest class of next generation leaders  ,['neutral'],0.0,0.0
+"review: ""a quiet place part ii"" is tense and effectivebut a little more breathing room would have gone a long way ",['hate.speech'],-0.014166666666666652,0.44666666666666666
+this will 100% save somebodys life. heres why athletes like michael phelps see a turning point for mental healt ,['hate.speech'],-0.1,0.2
+the 5 best new tv shows our critic watched in may 2021 ,['neutral'],0.5681818181818181,0.37727272727272726
+"four ways exercise helps fight aging
+",['hate.speech'],0.0,0.0
+"why ""breakthrough"" infections even after covid-19 vaccinations shouldnt be surprising
+",['hate.speech'],0.7,0.5
+"""i dont want to be a trend."" @leynabloom on opening doors for the next generation of transgender talent in film an ",['hate.speech'],0.0,0.0
+"""gender doesnt matter when it comes to passion to deliver quality products.""
+
+find out why anna and mizuki nakajim ",['neutral'],0.0,0.0
+everything to know about the origins of cruella de vil before watching the new disney movie ,['hate.speech'],0.13636363636363635,0.45454545454545453
+"after decades of misogynistic and violent oppression by myanmars military and its cronies, it finally looks like ",['neutral'],-0.3,0.7000000000000001
+"pot users welcome: amazon won't test jobseekers for cannabis
+",['neutral'],0.8,0.9
+"who gives emergency approval to china's sinovac vaccine
+",['hate.speech'],0.0,0.0
+the best podcasts of 2021 so far ,['neutral'],0.55,0.65
+.@sebastianjunger: my father fled fascism in spainand taught me how lies can destroy a democracy ,['hate.speech'],-0.2,0.0
+a palestinian doctors account of life under israeli bombardment in gaza ,['hate.speech'],0.0,0.0
+"either i resigned myself to the fact that... i was going to endure this kind of behavior, or i joined this group o ",['hate.speech'],0.6,0.9
+the racial reckoning went global last year. here's how activists in 8 countries are fighting for justice ,['hate.speech'],0.0,0.03333333333333333
+inside the israeli town that sits on the divide between jews and arabs ,['hate.speech'],0.0,0.0
+"the covid-19 pandemic may be the hardest mountain nepal's sherpas have ever had to climb
+",['hate.speech'],0.0,0.0
+"india is demanding social media remove references to the ""indian variant"" of covid-19. but what should it be called?
+",['neutral'],0.03333333333333333,0.06666666666666667
+"melting butter, poisonous mushrooms and the strange history of the invention of the thermometer
+",['hate.speech'],-0.05,0.15
+"get the context you need for the pop culture you love. sign up now for times weekly entertainment newsletter, more ",['neutral'],0.5,0.55
+.@casey_mcquiston is writing the queer rom-coms shes always wanted to read  ,['hate.speech'],0.0,0.0
+i dont want to be a trend. @leynabloom on opening doors for the next generation of transgender talent in film an ,['hate.speech'],0.0,0.0
+"beyond tulsa: the historic legacies and overlooked stories of americas ""black wall streets"" ",['hate.speech'],-0.08333333333333333,0.21666666666666667
+"in texas, democrats go all in to fight voting restrictions
+",['hate.speech'],0.0,0.0
+"in unanimous ruling, scotus affirms authority of native american tribal governments and police forces
+",['hate.speech'],0.0,0.0
+"""why black americans need black-owned banks""
+",['hate.speech'],-0.16666666666666666,0.43333333333333335
+"rt @maddiecarlisle2: in a major ruling this morning, scotus reaffirmed tribal sovereignty and unanimously declared that tribal police offic",['hate.speech'],0.0625,0.5
+"the unlikely coalition that forced marriage equality
+",['hate.speech'],-0.4,0.35
+"sign up now for times weekly entertainment newsletter, more to the story, to discover the context you need for the ",['neutral'],0.5,0.5
+"4 ways exercise helps fight aging
+",['hate.speech'],0.0,0.0
+"""we owe it to future generations to explain why."" how robert mcnamara came to write his memoirs about vietnam ed ",['neutral'],0.0,0.125
+"this ""peanuts"" strip offers a window into ronald reagans changing views on abortion
+",['hate.speech'],0.1,0.0
+"from aids to covid-19, americas medical system has a long history of relying on filipino nurses to fight on the fr ",['neutral'],-0.025,0.2
+"dismantling centuries of systemic injustice will require work on the part of everyone, from political representativ ",['hate.speech'],0.0,0.1
+"rt @annabelgutt: time is launching a weekly entertainment newsletter !! 
+
+sign up for more to the story and hear from my super smart coll",['neutral'],0.34920634920634913,0.6031746031746031
+read the full story by @edockterman here: ,['hate.speech'],0.35,0.55
