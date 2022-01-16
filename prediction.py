@@ -1,22 +1,15 @@
-import re
-
-import csv
-
-import json
-import logging
 import numpy as np
 from optparse import OptionParser
-import sys
-from time import time
-from sklearn.datasets import fetch_20newsgroups
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.feature_extraction.text import HashingVectorizer
-from sklearn.feature_selection import SelectKBest, chi2
-from sklearn.pipeline import make_pipeline
+from sklearn.datasets import load_files
 from sklearn.svm import LinearSVC
-from sklearn import metrics
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.pipeline import make_pipeline
+from sklearn import metrics
+from time import time
+import sys
+import logging
 
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s %(levelname)s %(message)s')
@@ -56,43 +49,13 @@ def is_interactive():
 
 argv = [] if is_interactive() else sys.argv[1:]
 (opts, args) = op.parse_args(argv)
-if len(args) > 0:
-    op.error("this script takes no arguments.")
-    sys.exit(1)
 
-print(__doc__)
-op.print_help()
-print()
-
-if opts.all_categories:
-    categories = None
-else:
-    categories = [
-        'hate.speech',
-        'neutral'
-    ]
-
-if opts.filtered:
-    remove = ('headers', 'footers', 'quotes')
-else:
-    remove = ()
-
-data = fetch_20newsgroups()
-data_train = fetch_20newsgroups(subset='train', categories=categories,
-                                shuffle=True, random_state=42,
-                                remove=remove)
-
-data_test = fetch_20newsgroups(subset='test', categories=categories,
-                               shuffle=True, random_state=42,
-                               remove=remove)
-print('data loaded')
-
-# order of labels in `target_names` can be different from `categories`
-target_names = data_train.target_names
+data_train = load_files(container_path='home\\dataset-train', load_content=True, encoding='latin1')
+data_test = load_files(container_path='home\\dataset-test', load_content=True, encoding='latin1')
 
 
 def size_mb(docs):
-    return sum(len(s.encode('utf-8')) for s in docs) / 1e6
+    return sum(len(s.encode('latin1')) for s in docs) / 1e6
 
 
 data_train_size_mb = size_mb(data_train.data)
@@ -102,9 +65,8 @@ print("%d documents - %0.3fMB (training set)" % (
     len(data_train.data), data_train_size_mb))
 print("%d documents - %0.3fMB (test set)" % (
     len(data_test.data), data_test_size_mb))
-print("%d categories" % len(target_names))
 
-# split a training set and a test set
+# Split a training set and a test set
 y_train, y_test = data_train.target, data_test.target
 
 print("Extracting features from the training data using a sparse vectorizer")
@@ -128,7 +90,7 @@ duration = time() - t0
 print("done in %fs at %0.3fMB/s" % (duration, data_test_size_mb / duration))
 print("n_samples: %d, n_features: %d" % X_test.shape)
 
-# mapping from integer feature name to original token string
+# Mapping from integer feature name to original token string
 if opts.use_hashing:
     feature_names = None
 else:
@@ -150,22 +112,24 @@ if opts.select_chi2:
 if feature_names:
     feature_names = np.asarray(feature_names)
 
-model = make_pipeline(TfidfVectorizer(), LinearSVC())
-#model = make_pipeline(TfidfVectorizer(), RandomForestClassifier())
-#model = make_pipeline(TfidfVectorizer(), MultinomialNB())
+# Building Model
+# model = make_pipeline(TfidfVectorizer(), LinearSVC())
+# model = make_pipeline(TfidfVectorizer(), RandomForestClassifier())
+model = make_pipeline(TfidfVectorizer(), MultinomialNB())
 model.fit(data_train.data, data_train.target)
-# Predict the categories of the test data
 predicted_categories = model.predict(data_test.data)
 
 
+# Calculate Hate Speech result
 def my_predictions(my_sentence, model):
-    all_categories_names = np.array(categories)
+    all_categories_names = np.array(data_train.target_names)
     prediction = model.predict([my_sentence])
     return all_categories_names[prediction]
 
 
+# Printing result
 def calculate(headline):
-    # calculate hate speech
+    # Calculate hate speech
     hate_result = str(my_predictions(headline, model))
     print(hate_result)
 
@@ -175,27 +139,6 @@ def calculate(headline):
     print("F1-score:", metrics.f1_score(data_test.target, predicted_categories, average='weighted'))
 
 
-def strip_non_ascii(string):
-    """ Returns the string without non ASCII characters """
-    stripped = (c for c in string if 0 < ord(c) < 127)
-    return ''.join(stripped)
-
-
-def prediction(start, destination, username):
-    tmp = []
-    results = [["Text", "Prediction"]]
-    for line in open(start + '/' + username + '.json', 'r'):
-        tmp.append(json.loads(line)["text"])
-    for line in tmp:
-        line = strip_non_ascii(line)
-        line = line.lower()
-        line = re.sub(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', '', line)
-        results.append([line, calculate(line)])
-    with open(destination + '/' + username + '.csv', 'w', newline='') as file:
-        writer = csv.writer(file, delimiter=',')
-        writer.writerows(results)
-
-
 if __name__ == '__main__':
-    calculate('It was very beautiful')
-    #prediction('json', 'csv/prediction', 'cnn')
+    calculate("Hello")
+
