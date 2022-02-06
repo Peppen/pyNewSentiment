@@ -52,8 +52,3 @@ def clean(folder, username):
         df = df[df.Reply != "'   '"]
     print('Cleaned')
     df.to_csv(folder + username, sep=',', index=False)
-
-
-if __name__ == '__main__':
-    replies('replies', "NYBizJournal")
-    clean('replies/', "NYBizJournal.csv")
