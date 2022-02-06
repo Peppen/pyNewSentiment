@@ -138,7 +138,3 @@ def calculate(headline):
     print("Recall:", metrics.recall_score(data_test.target, predicted_categories, average='weighted'))
     print("F1-score:", metrics.f1_score(data_test.target, predicted_categories, average='weighted'))
 
-
-if __name__ == '__main__':
-    calculate("Hello")
-
