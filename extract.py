@@ -19,5 +19,3 @@ def download(folder, username):
             f.write(jsonpickle.encode(tweet._json, unpicklable=False) + '\n')
 
 
-if __name__ == '__main__':
-    download('json', 'WashTimes')
