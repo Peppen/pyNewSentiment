@@ -3,9 +3,6 @@ from textblob import TextBlob
 import re
 
 tweets = []
-username = 'TIME.csv'
-start = 'csv/prediction/'
-destination = 'csv/sentiment/'
 
 
 def getSubjectivity(text):
@@ -61,12 +58,12 @@ for i, row in df.iterrows():
     row['Text'] = re.sub(r'\bcoo+\b', 'cool', row['Text'])
     tweets.append(row['Text'])
 
-score = []
-for i in range(df['Text'].shape[0]):
-    polarity = getPolarity(df['Text'][i])
-    subjectivity = getSubjectivity(df['Text'][i])
-    score.append({'Polarity': polarity, 'Subjectivity': subjectivity})
+    score = []
+    for i in range(df['Text'].shape[0]):
+        polarity = getPolarity(df['Text'][i])
+        subjectivity = getSubjectivity(df['Text'][i])
+        score.append({'Polarity': polarity, 'Subjectivity': subjectivity})
 
-sentiment_score = pd.DataFrame.from_dict(score)
-df = df.join(sentiment_score)
-df.to_csv(destination + username, index=False)
+    sentiment_score = pd.DataFrame.from_dict(score)
+    df = df.join(sentiment_score)
+    df.to_csv(destination + username, index=False)
