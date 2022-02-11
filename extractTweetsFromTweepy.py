@@ -12,6 +12,7 @@ auth.set_access_token(access_token, access_token_secret)
 auth_api = API(auth)
 
 
+# Downloading Tweets
 def download():
     for tweet in tweepy.Cursor(auth_api.user_timeline, id='BBCNews').items(100):
         print(tweet)

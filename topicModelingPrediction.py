@@ -20,34 +20,34 @@ data_test = load_files(container_path='dataset\\dataset-test', load_content=True
 
 def training():
     # Building Model
-    model = make_pipeline(TfidfVectorizer(), LinearSVC())
+    # model = make_pipeline(TfidfVectorizer(), LinearSVC())
     # model = make_pipeline(TfidfVectorizer(), RandomForestClassifier())
-    # model = make_pipeline(TfidfVectorizer(), MultinomialNB())
+    model = make_pipeline(TfidfVectorizer(), MultinomialNB())
     model.fit(data_train.data, data_train.target)
     predicted_categories = model.predict(data_test.data)
     print("Accuracy:", metrics.accuracy_score(data_test.target, predicted_categories))
     print("Precision:", metrics.precision_score(data_test.target, predicted_categories, average='weighted'))
     print("Recall:", metrics.recall_score(data_test.target, predicted_categories, average='weighted'))
     print("F1-score:", metrics.f1_score(data_test.target, predicted_categories, average='weighted'))
-    with open('pickle/dataset_pkl', 'wb') as files:
+    with open('pickle/dataset_svc_pkl', 'wb') as files:
         pickle.dump(model, files)
 
 
-# Calculate Hate Speech result
-def topic_predictions(sentence):
+# Calculate Topic result
+def topic_prediction(sentence):
     all_categories_names = np.array(data_train.target_names)
-    with open('pickle/dataset_pkl', 'rb') as f:
+    with open('pickle/dataset_svc_pkl', 'rb') as f:
         lr = pickle.load(f)
     prediction = lr.predict([sentence])
     return all_categories_names[prediction]
 
 
+# Printing Topic
 def get_topic(headline):
-    topic = str(topic_predictions(headline))
-    print(topic)
+    return str(topic_prediction(headline))
 
 
 if __name__ == '__main__':
-    if not os.path.isfile('pickle/dataset_pkl'):
+    if not os.path.isfile('pickle/dataset_svc_pkl'):
         training()
-    get_topic("I ate an hamburger")
+    print(get_topic("It's election day"))

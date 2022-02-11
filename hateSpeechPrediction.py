@@ -106,9 +106,9 @@ def training():
 
     # Building Model
 
-    # model = make_pipeline(TfidfVectorizer(), LinearSVC())
+    model = make_pipeline(TfidfVectorizer(), LinearSVC())
     # model = make_pipeline(TfidfVectorizer(), RandomForestClassifier())
-    model = make_pipeline(TfidfVectorizer(), MultinomialNB())
+    # model = make_pipeline(TfidfVectorizer(), MultinomialNB())
     model.fit(data_train.data, data_train.target)
     predicted_categories = model.predict(data_test.data)
     print("Accuracy:", metrics.accuracy_score(data_test.target, predicted_categories))
@@ -120,7 +120,7 @@ def training():
 
 
 # Calculate Hate Speech result
-def my_predictions(my_sentence):
+def my_prediction(my_sentence):
     all_categories_names = np.array(data_train.target_names)
     with open('pickle/model_pkl', 'rb') as f:
         lr = pickle.load(f)
@@ -130,11 +130,11 @@ def my_predictions(my_sentence):
 
 # Printing result
 def calculate(headline):
-    # Calculate hate speech
-    hate_result = str(my_predictions(headline))
-    print(hate_result)
+    # Calculate Hate Speech
+    return str(my_prediction(headline))
 
 
 if __name__ == '__main__':
     if not os.path.isfile('pickle/model_pkl'):
         training()
+    print(calculate('Spanish guy killed a men'))
